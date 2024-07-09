@@ -68,6 +68,6 @@ console.log('Employee name is: ' + employeeName);
 console.log('EMployee age is: ' + employeeAge);
 
 console.log(`My name is ${employeeName} and my age is ${employeeAge} years old`);
-
+ // backtick character needs to be used instead of single '' or ""
 
 
